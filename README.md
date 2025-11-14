@@ -1,4 +1,4 @@
 - 👋 Hi, I’m YOSHII Kohei
 - 👀 I’m interested in doing research in "Robotics"
-- 🌱 I’m currently learning Robot Operating System "ROS"
+- 🌱 I’m currently learning Robot Operating System "ROS2"
 - 🤖 I’m currently doing an internship at AIZUK.

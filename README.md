@@ -2,3 +2,5 @@
 - 👀 I’m interested in doing research in "Robotics"
 - 🌱 I’m currently learning Robot Operating System "ROS2"
 - 🤖 I’m currently doing an internship at AIZUK.
+- 🏥 SLAM, AMCL, 2D LIDAR, IMU, GNSS.
+- 🌾 低予算なロボットを作りたい

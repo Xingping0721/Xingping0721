@@ -8,3 +8,4 @@
 - ラーメン, 寿司, おでん, 焼き鳥, 天ぷら, うどん!!!
 - ロボットで世界を変える!
 - [おばあちゃん用スマホ使い方ガイド](https://xingping0721.github.io/pixel_setup.github.io/)
+- NSL学習中
